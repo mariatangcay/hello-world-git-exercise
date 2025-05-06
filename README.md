@@ -1,1 +1,1 @@
-# hello-world-git-exercise
+# Hello World Git Exercise
